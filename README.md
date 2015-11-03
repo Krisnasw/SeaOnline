@@ -1,2 +1,2 @@
 # SeaOnline
-Website Perpustakaan SEAMOLEC
+Website SeaOnline
